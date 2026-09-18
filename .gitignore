@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+error.log
+test.log
+
+# Secrets
+key.txt
+.env
+.env.*
+!.env.example
